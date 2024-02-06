@@ -1,48 +1,17 @@
-# Hello, World! 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm Dennis, a passionate software developer with a flair for C, JavaScript, and Ruby.
+I'm Dennis, a software developer with flair in C, JavaScript, and Ruby.
 
-## About Me
+🎓 **Experience:** 2+ years
 
-🎓 **Education:** Diploma in Software Engineering.
+💻 **Tech Stack:** C, JavaScript, Ruby
 
-💼 **Experience:** Over 2 years of hands-on experience in software development.
+🚀 **Projects:** Check out my current project below!
 
-## Tech Stack
+1. [Project 1](https://grossy.vercel.app/): [Welcome to our online grocery store! Our website is built using Next.js, a popular React-based framework for building fast and scalable web applications, and Sanity, a powerful backend CMS that allows us to easily manage our content and data.]
 
-### Languages:
-- C
-- JavaScript
-- Ruby
-
-### Frameworks/Libraries:
-- Ruby On Rails
-- React
-- NextJs
-- TypeScript
-
-### Tools:
-- Git
-- Visual Studio Code
-- Insomia
-- Vim/vi
-- Emacs
-- Sublime
-
-## Projects Highlights
-
-Here are some of my noteworthy projects:
-
-1. [Project 1](https://www.linkedin.com/in/dennis-shakava/): A web application built using React and Ruby on Rails.
-
-## Connect with Me
-
-Let's connect and collaborate:
-
+Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/dennis-shakava/)
-- [Twitter](https://www.linkedin.com/in/dennis-shakava/)
-- [Portfolio](https://www.linkedin.com/in/dennis-shakava/)
+- [Twitter](https://www.twitter.com/DeeShaki9)
 
-Feel free to explore my repositories and reach out for collaboration opportunities!
-
-Happy coding! 🚀
+Happy coding! 🌟
