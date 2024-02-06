@@ -33,8 +33,7 @@ Welcome to my GitHub profile! I'm Dennis, a passionate software developer with a
 
 Here are some of my noteworthy projects:
 
-1. [Project 1](link): A web application built using React and Ruby on Rails for [purpose].
-2. [Project 2](link): [Description].
+1. [Project 1](https://www.linkedin.com/in/dennis-shakava/): A web application built using React and Ruby on Rails.
 
 ## Connect with Me
 
