@@ -18,7 +18,7 @@ Hi, I'm Dennis👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,rails,visualstudio,nodejs,mint,ubuntu,vite,ktlin,dart,express,mongodb,tailwind,figma,git,linux,c" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,rails,visualstudio,nodejs,mint,ubuntu,vite,kotlin,dart,express,mongodb,tailwind,figma,git,linux,c" />
   </a>
 </p>
 
