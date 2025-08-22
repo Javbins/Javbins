@@ -1,17 +1,62 @@
-# Hi there! 👋
+<!-- 
+Hi, I'm Dennis👋 
+-->
 
-I'm Dennis, a software developer with flair in C, JavaScript, and Ruby.
+<div align="center">
 
-🎓 **Experience:** 2+ years
+  <h1>Dennis</h1>
+  <p>
+    I'm a Tech enthusiast specializing in Software Development.<br /> 
+    I turn ideas into elegant and functional digital experiences.
+  </p>
 
-💻 **Tech Stack:** C, JavaScript, Ruby
+</div>
 
-🚀 **Projects:** Check out my current project below!
+---
 
-1. [Project 1](https://grossy.vercel.app/): Welcome to our online grocery store! Our website is built using Next.js, a popular React-based framework for building fast and scalable web applications, and Sanity, a powerful backend CMS that allows us to easily manage our content and data.
+### 🔧 Technologies & Tools
 
-Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/dennis-shakava/)
-- [Twitter](https://www.twitter.com/DeeShaki9)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,rails,visualstudio,nodejs,express,mongodb,tailwind,figma,git,linux,c" />
+  </a>
+</p>
 
-Happy coding! 🌟
+---
+
+### 🌱 I'm Currently Learning
+
+- Exploring **[Rust for backend development]**.
+- Deepening my understanding of **[System Design and Scalability]**.
+- Improving my skills in **[CI/CD with GitHub Actions]**.
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dennis-shakava" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="https://.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a> &nbsp;
+  <a href="mailto:nexesa.foundation@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Javbins&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javbins&layout=compact&theme=transparent&hide_border=true" />
+  </a>
+</p>
