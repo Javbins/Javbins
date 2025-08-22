@@ -18,7 +18,7 @@ Hi, I'm Dennis👋
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,rails,visualstudio,nodejs,express,mongodb,tailwind,figma,git,linux,c" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,rails,visualstudio,nodejs,mint,ubuntu,vite,ktlin,dart,express,mongodb,tailwind,figma,git,linux,c" />
   </a>
 </p>
 
@@ -26,9 +26,9 @@ Hi, I'm Dennis👋
 
 ### 🌱 I'm Currently Learning
 
-- Exploring **[Rust for backend development]**.
-- Deepening my understanding of **[System Design and Scalability]**.
-- Improving my skills in **[CI/CD with GitHub Actions]**.
+- Exploring **Rust for backend development**.
+- Deepening my understanding of **System Design and Scalability**.
+- Improving my skills in **CI/CD with GitHub Actions, Kotlin & Dart**.
 
 ---
 
