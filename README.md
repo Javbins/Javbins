@@ -47,16 +47,3 @@ Hi, I'm Dennis👋
 </p>
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Javbins&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javbins&layout=compact&theme=transparent&hide_border=true" />
-  </a>
-</p>
